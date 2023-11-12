@@ -4,5 +4,32 @@ body{
     /*Could not figure out how to use custom font so I picked one I liked instead*/
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+}
 
+nav{
+    margin-bottom: 5px;
+    border-bottom: 2px solid #dad2c5;
+    padding-bottom: 50px;
+}
+
+.order{
+ background-color: #502314;  
+ color:white;  
+ font-weight: bold;
+ float:right;
+ margin-right: 50px;
+ border: 2px;
+ border-radius:20px;
+ padding: 8px;
+}
+
+.signup{
+    background-color: #d62300;
+    color: white;
+    font-weight: bold;
+    float:right;
+    margin-right: 10px;
+    border: 2px;
+    border-radius:20px;
+    padding: 8px;
 }
