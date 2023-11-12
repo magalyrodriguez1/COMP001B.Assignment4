@@ -1,0 +1,8 @@
+body{
+    background-color: #f5ebdc;
+    color: #502314;
+    /*Could not figure out how to use custom font so I picked one I liked instead*/
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
